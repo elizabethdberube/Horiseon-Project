@@ -13,3 +13,8 @@ These are the changes that were made:
 5. A concise descriptive title was added to the title element.
  
 6. CSS selectors were added to the CSS sheet for a more ordered approach.
+
+
+You can find the website at https://elizabethdberube.github.io/Horiseon-Project/
+
+![image](/Screenshot.png)
